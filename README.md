@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
 
 
@@ -36,7 +36,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimpyo&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zion0211&layout=compact&theme=radical)
+
 
 ---
 
