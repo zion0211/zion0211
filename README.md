@@ -26,7 +26,7 @@
 
 ## 🧩 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에아이디)](https://solved.ac/여기에아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimpyo)](https://solved.ac/shimpyo)
 
 ---
 
@@ -34,9 +34,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=여기에아이디&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shimpyo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=여기에아이디&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimpyo&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -44,13 +44,13 @@
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=여기에아이디&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shimpyo&theme=tokyonight)
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=여기에아이디&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimpyo&theme=tokyo-night)
 
 ---
 
@@ -65,11 +65,6 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=여기에아이디&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=shimpyo&theme=tokyonight)
 
----
 
-## 📫 Contact
-
-- Email: your@email.com
-- Blog: https://yourblog.com
