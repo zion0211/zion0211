@@ -31,6 +31,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zion0211&theme=tokyonight)
 
+---
+
+##  Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zion0211&theme=tokyo-night)
+
+
+
+---
 
 
 
