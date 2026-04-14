@@ -29,11 +29,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Rainbow+Effect+Activated!;Keep+Coding+with+Passion&multiLine=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zion0211&theme=tokyonight)
+
 
 ---
 
 ##  Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zion0211&theme=tokyo-night)
 
 
 
