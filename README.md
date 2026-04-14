@@ -32,8 +32,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=zion0211&theme=tokyonight)
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zion0211&theme=tokyonight)
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zion0211&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=zion0211&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zion0211&layout=compact&theme=tokyonight" />
+</p>
 
 
 ---
