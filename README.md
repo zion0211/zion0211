@@ -1,36 +1,35 @@
 
+<div align="left">
 
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20zion0211's%20Space&fontSize=50)
 
-<br>
+---
 
-## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<br>
-<br>
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📈 GitHub Activities
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zion0211&show_icons=true&theme=tokyonight)
+###  Tools & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+##  Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimpyo)](https://solved.ac/shimpyo)
+
+
+
+##  Streak
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Rainbow+Effect+Activated!;Keep+Coding+with+Passion&multiLine=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zion0211&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zion0211&layout=compact&theme=tokyonight)
-
-<br>
-
-## 🏆 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zion0211)](https://solved.ac/zion0211)
-
-<br>
-
----
-<p align="center">지치지 않고 꾸준히 나아가는 중입니다.</p>
-
-</div>
----
 
 
 
