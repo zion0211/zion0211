@@ -1,13 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Junwon
 
-💻 Backend Developer | Automation Engineer  
-🔥 C# 기반 시스템 & 자동화 개발  
-📊 Algorithm Problem Solver (Baekjoon)
 
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20zion0211's%20Space&fontSize=50)
 
 ---
 
@@ -28,19 +24,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimpyo)](https://solved.ac/shimpyo)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shimpyo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimpyo&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🔥 Streak
 
@@ -52,6 +36,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimpyo&theme=tokyo-night)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zion0211&layout=compact&theme=radical)
+
 ---
 
 ## 🧠 About Me
@@ -61,10 +47,6 @@
 - 🔹 대규모 콘텐츠 자동화 프로젝트 진행 중
 - 🔹 OCR + GPT 기반 블로그 자동화 개발
 
----
 
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shimpyo&theme=tokyonight)
 
 
